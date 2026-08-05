@@ -13,11 +13,12 @@
 <img width="24" height="24" alt="Spearmaster_icon_(custom)" src="https://github.com/user-attachments/assets/76f54496-0fe7-44b6-ae45-737b394c6d45" />
 <img width="24" height="24" alt="Saint_icon_(custom)" src="https://github.com/user-attachments/assets/a2d0c284-72bb-43d9-93eb-1e46862b42e8" />
 <p align="center">$\color{#0f8a7e}{\textsf{if you see me sitting around, don't be afraid to come by and say hello!!}}$
+<p align="center">$\color{#0f8a7e}{\textsf{i'm generally pretty friendly}}$
 <p align="center">$\color{#0f8a7e}{\textsf{crashout on me if i'm not responding}}$
 <p align="center">$\tiny\color{#0f8a7e}{\textsf{(that means whisper me)}}$
 <p align="center">$\color{#0f8a7e}{\textsf{i'm probably drawing, afk, or just generally busy!}}$
 <p align="center">$\color{#0f8a7e}{\textsf{don't take it personal if it takes a bit of time XP}}$
-  <p align="center">$\color{#0f8a7e}{\textsf{oti, c+h freely unless it states anything otherwise in my pony name!}}$
+<p align="center">$\color{#0f8a7e}{\textsf{oti, c+h freely unless it states anything otherwise in my pony name!}}$
 <p align="center">$\color{#0f8a7e}{\textsf{standard dni applies}}$
 <p align="center">$\color{#0f8a7e}{\textsf{i genuinely don't care about anything else, just be respectful towards others}}$
 <p align="center"><img width="11" height="24" alt="Pearl_Red_stomach" src="https://github.com/user-attachments/assets/7bd88718-84c4-4766-8cd3-e43aa80f8b4b" />
