@@ -63,4 +63,5 @@
 <img width="150" height="20" alt="a75" src="https://github.com/user-attachments/assets/6184daa9-4c0d-403f-9a55-988e3199c166" />
 <p align="center">$\tiny\color{#0f8a7e}{\textsf{that's all you're getting i'm getting a cramp in my wrist}}$
 <p align="center">$\tiny\color{#0f8a7e}{\textsf{okay have a good day}}$
+<p align="center"><img width="120" height="120" alt="anton" src="https://github.com/user-attachments/assets/5254e4f0-57ec-4182-ac18-792eb5df6f46" />
 <p align="center"><img width="150" height="20" alt="a17" src="https://github.com/user-attachments/assets/c25d648e-1147-4e03-836a-a8258528f9f4" />
