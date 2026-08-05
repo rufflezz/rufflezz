@@ -16,7 +16,7 @@
 <p align="center">$\color{#0f8a7e}{\textsf{i'm generally pretty friendly}}$
 <p align="center">$\color{#0f8a7e}{\textsf{crashout on me if i'm not responding}}$
 <p align="center">$\tiny\color{#0f8a7e}{\textsf{(that means whisper me)}}$
-<p align="center">$\color{#0f8a7e}{\textsf{i'm probably drawing, afk, or just generally busy!}}$
+<p align="center">$\color{#0f8a7e}{\textsf{i'm probably offtab, afk, or just generally busy!}}$
 <p align="center">$\color{#0f8a7e}{\textsf{don't take it personal if it takes a bit of time XP}}$
 <p align="center">$\color{#0f8a7e}{\textsf{oti, c+h freely unless it states anything otherwise in my pony name!}}$
 <p align="center">$\color{#0f8a7e}{\textsf{standard dni applies}}$
