@@ -61,6 +61,14 @@
 <img width="150" height="20" alt="a60" src="https://github.com/user-attachments/assets/2759bd63-1466-4e4e-a650-db2fadf3f4af" />
 <img width="150" height="20" alt="c57" src="https://github.com/user-attachments/assets/51295ac2-7c3d-4c3e-b320-16df5b957a8a" />
 <img width="150" height="20" alt="a75" src="https://github.com/user-attachments/assets/6184daa9-4c0d-403f-9a55-988e3199c166" />
+<img width="150" height="20" alt="e77" src="https://github.com/user-attachments/assets/c5a3da75-c38a-409d-8c54-fcddca85acbf" />
+<img width="150" height="20" alt="v55" src="https://github.com/user-attachments/assets/21029fa7-2f35-41b2-856a-a9486d95f8e0" />
+<img width="150" height="20" alt="v72" src="https://github.com/user-attachments/assets/f1481a60-5357-4045-88f2-a933ffb8f02d" />
+<img width="150" height="20" alt="e53" src="https://github.com/user-attachments/assets/aa1cbefc-9d36-4d81-9c4c-137ec807386a" />
+<img width="150" height="20" alt="e32" src="https://github.com/user-attachments/assets/abda359a-03e0-4daa-91a6-8357cc908fa3" />
+<img width="150" height="20" alt="e4" src="https://github.com/user-attachments/assets/418254d3-b4dc-4f6b-80dd-7eeaa456c185" />
+
+  
 <p align="center">$\tiny\color{#0f8a7e}{\textsf{that's all you're getting i'm getting a cramp in my wrist}}$
 <p align="center">$\tiny\color{#0f8a7e}{\textsf{okay have a good day}}$
 <p align="center"><img width="120" height="120" alt="anton" src="https://github.com/user-attachments/assets/5254e4f0-57ec-4182-ac18-792eb5df6f46" />
