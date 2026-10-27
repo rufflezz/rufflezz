@@ -67,6 +67,18 @@
 <img width="150" height="20" alt="e53" src="https://github.com/user-attachments/assets/aa1cbefc-9d36-4d81-9c4c-137ec807386a" />
 <img width="150" height="20" alt="e32" src="https://github.com/user-attachments/assets/abda359a-03e0-4daa-91a6-8357cc908fa3" />
 <img width="150" height="20" alt="e4" src="https://github.com/user-attachments/assets/418254d3-b4dc-4f6b-80dd-7eeaa456c185" />
+<img width="150" height="20" alt="e122" src="https://github.com/user-attachments/assets/b15848f7-2b95-4dc2-8889-fc2f43f0827b" />
+<img width="150" height="20" alt="d99" src="https://github.com/user-attachments/assets/c7a46d92-c7e4-4e3a-89e8-c62c9eff4878" />
+<img width="150" height="20" alt="d6" src="https://github.com/user-attachments/assets/d4216914-a09f-4385-ba06-c3bf3e79f952" />
+<img width="150" height="20" alt="c45" src="https://github.com/user-attachments/assets/1031fa28-eb81-42b6-a940-e641ace4b84a" />
+<img width="150" height="20" alt="c8" src="https://github.com/user-attachments/assets/6c408842-6382-41df-b9fa-2e371a019c3c" />
+<img width="150" height="20" alt="k15" src="https://github.com/user-attachments/assets/61323a13-e5fa-48ed-8e38-02471c419f8d" />
+<img width="150" height="20" alt="k9" src="https://github.com/user-attachments/assets/5b090dd6-27a4-49fa-8a54-0fbcbf1cab84" />
+<img width="150" height="20" alt="v90" src="https://github.com/user-attachments/assets/b5684745-80e9-4551-8c5a-f660d6458259" />
+<img width="150" height="20" alt="a13" src="https://github.com/user-attachments/assets/9f5ab394-fbe4-4864-8965-5c11f8282865" />
+<img width="150" height="20" alt="c50" src="https://github.com/user-attachments/assets/e2bb6745-e4d7-45f6-9b78-1a8845556136" />
+<img width="150" height="20" alt="c40" src="https://github.com/user-attachments/assets/b4275ee0-2a8f-4871-94e7-e87017837e83" />
+<img width="150" height="20" alt="c39" src="https://github.com/user-attachments/assets/1553f3be-2490-4300-988d-af40b0bb1d34" />
 
   
 <p align="center">$\tiny\color{#0f8a7e}{\textsf{that's all you're getting i'm getting a cramp in my wrist}}$
