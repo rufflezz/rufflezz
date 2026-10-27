@@ -6,7 +6,7 @@
 <img width="150" height="20" alt="v4" src="https://github.com/user-attachments/assets/48ae0133-d704-4cc6-b2d9-826a8bddca70" />
 <p align="center">$\color{#0f8a7e}{\textsf{heyo!}}$
 <p align="center"> <img width="46" height="40" alt="Rivulet_spoiler" src="https://github.com/user-attachments/assets/51fa7da2-b987-4776-89d3-04bc3b4ea005" />
-<p align="center">$\color{#0f8a7e}{\textsf{my name's ruffles,}}$
+<p align="center">$\color{#0f8a7e}{\textsf{my name's firefly (or ruffles),}}$
 <p align="center">$\color{#0f8a7e}{\textsf{but you can call me whatever!}}$
 <p align="center">$\color{#0f8a7e}{\textsf{he / him}}$
 <p align="center"><img width="24" height="24" alt="Rivulet_icon_(custom)" src="https://github.com/user-attachments/assets/2f56db29-a348-46c4-a4f5-891b323dfd4f" />
